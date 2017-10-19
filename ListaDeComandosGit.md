@@ -344,7 +344,7 @@ Fazendo o **rebase** entre um o branch bug-123 e o master.
 
 Mais informações e explicações sobre o [Rebasing](http://git-scm.com/book/en/Git-Branching-Rebasing)
 
-###Stash
+### Stash
 
 Para alternar entre um branch e outro é necessário fazer o commit das alterações atuais para depois trocar para um outro branch. 
 Se existir a necessidade de realizar a troca sem fazer o commit é possível criar um **stash**. 
