@@ -194,11 +194,11 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 	
 ### Renomear um repositório remoto 
 
-	git remote rename origin curso-git
+	git remote rename origin Trabalhando-Com-Git
 	
 ### Desvincular um repositório remoto
 	
-	git remote rm curso-git
+	git remote rm Trabalhando-Com-Git
 
 ### Enviar arquivos/diretórios para o repositório remoto
 
